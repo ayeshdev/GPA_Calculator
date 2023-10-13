@@ -1,0 +1,9 @@
+<h1>Add Student</h1>
+
+<form [formGroup]="studentForm" (ngSubmit)="addStudent()">
+
+<input type="text" placeholder="enter name" formControlName="studentName"/>
+<input type="text" placeholder="enter class" formControlName="studentClass"/>
+
+<button type="submit">Add Student</button>
+</form>

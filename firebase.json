@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "gpa_calculator",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

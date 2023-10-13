@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "gpa-calculator-f7f40": {
+      "hosting": {
+        "gpa_calculator": [
+          "gpa-calculator-f7f40"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "gpa-calculator-f7f40"
+  }
+}
